@@ -1,0 +1,12 @@
+wheel
+Flask
+Flask-RESTful
+numpy
+scipy
+pandas
+matplotlib
+jupyter
+requests
+folium
+geopy
+streamlit
